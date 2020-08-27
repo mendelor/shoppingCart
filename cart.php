@@ -1,4 +1,8 @@
 <?php
+/*
+Website: http://machine-learning.co.nz
+*/
+
 session_start();
 $ajaxAaction = @$_REQUEST['ajax_action'];
 if($ajaxAaction == 'change'){
