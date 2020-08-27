@@ -1,4 +1,7 @@
 <?php
+/*
+Website: http://machine-learning.co.nz
+*/
 
 session_start();
 include('db.php');
